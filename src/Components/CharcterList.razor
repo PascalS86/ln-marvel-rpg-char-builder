@@ -1,7 +1,30 @@
 <!--This component contains a list of characters-->
+<RadzenDataList WrapItems="true" 
+                AllowPaging="true" 
+                Data="@Characters" TItem="Character">
+    <Template Context="character">
+        <RadzenCard Style="width:72px;">
+            <div>
+                <div style="z-index: 0;">
+                    <img style="z-index: 0;" src="@character.ProfileImageUri"/>
+                </div>
+                <div class="bg-dark text-white" style="z-index: 1;" @onclick="@(e=> OnClick(e, character))">
+                    @(character.Name) @(character.Lastname)
+                </div>
+            </div>
+        </RadzenCard>
+    </Template>
+</RadzenDataList>
+
 
 @code{
-    
+
     [Parameter]
-    public List<Character> MyProperty { get; set; }
+    public List<Character> Characters { get; set; }
+    [Parameter]
+    public EventCallback<Character> OnSelectionChanged { get; set; }
+    // sends the selected character back to the parent component
+    private async void OnClick(MouseEventArgs e, Character character){
+        await OnSelectionChanged.InvokeAsync(character);
+    }
 }
