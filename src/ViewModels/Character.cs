@@ -109,5 +109,13 @@ namespace csandra.ln.marvel.rpg{
         /// Selected patreon
         /// </summary>
         public Patreon Patreon { get; set; }
+        /// <summary>
+        /// Profile image uri
+        /// </summary>
+        public string ProfileImageUri { get; set; }
+        /// <summary>
+        /// List of image uris, for random backgrounds, etc.
+        /// </summary>
+        public List<string> ImageUris { get; set; }
     }
 }
