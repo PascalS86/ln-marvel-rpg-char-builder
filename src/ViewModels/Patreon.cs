@@ -6,6 +6,7 @@ using System.Threading;
 namespace csandra.ln.marvel.rpg{
     /// <summary>
     /// Represent a patreon
+    /// Patreons give 125 extra points to specific attributes
     /// </summary>
     public class Patreon{
         /// <summary>

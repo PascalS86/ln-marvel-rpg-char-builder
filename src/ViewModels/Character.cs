@@ -10,11 +10,13 @@ namespace csandra.ln.marvel.rpg{
         Shield,
         Xmen,
         FantasticFour,
-        GuardiansOfTheGalaxy
+        GuardiansOfTheGalaxy,
+        none
     }
 
     /// <summary>
     /// This class contains the info relevant to the rpg character
+    /// characters spend 400 points on attributes
     /// </summary>
     public class Character{
         /// <summary>
@@ -69,6 +71,26 @@ namespace csandra.ln.marvel.rpg{
         /// Represents the strength of the character
         /// </summary>
         public int Strength {get;set;} = 1;
+        /// <summary>
+        /// Represents the social skill of the character
+        /// </summary>
+        public int Social {get;set;} = 1;
+        /// <summary>
+        /// Represents the economic skill of the character
+        /// </summary>
+        public int Economics {get;set;} = 1;
+        /// <summary>
+        /// Represents the agility of the character
+        /// </summary>
+        public int Agility {get;set;} = 1;
+        /// <summary>
+        /// Represents the dexterity of the character
+        /// </summary>
+        public int Dexterity {get;set;} = 1;
+        /// <summary>
+        /// Represents the mental power of the character
+        /// </summary>
+        public int Psyche {get;set;} = 1;
         /// <summary>
         /// Biography in markdown
         /// </summary>

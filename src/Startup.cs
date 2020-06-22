@@ -8,6 +8,7 @@ namespace csandra.ln.marvel.rpg
     {
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddSingleton<CharacterService>();
             services.AddScoped<DialogService>();
         }
 

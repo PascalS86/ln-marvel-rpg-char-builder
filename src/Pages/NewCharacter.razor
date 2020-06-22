@@ -1,0 +1,14 @@
+@page  "/NewCharacter"
+@inject CharacterService characterService
+
+
+
+@code{
+    List<Character> characters { get => characterService.CharacterSource;}
+
+    protected override void OnInitialized()
+	{
+        //TODO: Initilize View
+        characterService.Get();
+	}
+}
