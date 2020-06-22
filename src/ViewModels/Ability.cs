@@ -7,7 +7,7 @@ namespace csandra.ln.marvel.rpg{
     /// <summary>
     /// Represent an ability
     /// Ability have a base value.
-    /// Points worth to the base value can be spent to abilities of the same attribute class
+    /// Points worth to the base value can be spent to abilities of the same attribute class.
     /// </summary>
     public class Ability{
         /// <summary>
