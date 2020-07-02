@@ -1,1 +1,26 @@
 name,afiliatons,durability,energy,fightingskills,intelligence,speed,strength,social,econmics,agility,dexterity,psyche
+Tony Stark (Iron Man),Avengers,5,30,5,40,0,0,10,15,0,20,0
+Ben Grimm (Thing),Fantastic Four,45,0,30,0,0,30,10,0,0,10,0
+Jean Gray (Marvel Girl),X-Men,0,10,5,20,0,0,30,0,10,0,50
+Dr. Stephan Strange (Sorcerer Supreme),Avengers,0,30,15,35,0,0,10,10,0,10,15
+Wanda Maximov (Scarlet Witch),Avengers,0,35,5,5,0,0,25,0,10,15,30
+Pietro Maximov (Quicksilver),Avengers,20,0,10,0,50,0,15,0,30,0,0
+Natasha Romanov (Black Widow),Avengers,10,15,30,10,0,0,20,0,40,0,0
+Clint Barton (Hawkeye),Avengers,10,15,30,5,5,0,10,0,30,20,0
+Steve Rogers (Captain America),Avengers,30,0,40,5,10,20,10,10,10,10,0
+Nick Fury (Director of Shield),SHIELD,5,0,25,30,0,0,30,35,0,0,0
+Sam Wilson (Falcon),Avengers,10,0,30,5,15,0,10,15,20,20,0
+Scott Lang (Ant Man),Avengers,5,20,5,15,0,10,15,10,15,30,0
+Hope van Dyne (Wasp),Avengers,5,20,15,20,0,10,20,10,20,5,0
+Prof. Charles Xavier (Prof. X),X-Men,0,15,0,35,0,0,35,10,0,0,30
+Thor Odinson (Thor),Avengers,40,30,25,0,0,30,0,0,0,0,0
+Carol Danvers (Captain Marvel),Avengers,30,50,30,5,0,0,5,0,0,5,0
+Rocket Racoon (Rocket),Guardians of the Galaxy,10,5,20,30,0,0,0,10,20,30,0
+Gamora (Deadliest Woman in the Galaxy),Guardians of the Galaxy,5,0,40,0,10,20,10,10,30,0,0
+Drax (Destroyer),Guardians of the Galaxy,40,0,45,0,0,30,0,0,0,10,0
+Bruce Banner (Hulk),Avengers,45,10,0,35,0,35,0,0,0,0,0
+Peter Parker (Spider-Man),Avengers,10,5,5,35,5,20,5,0,20,20,0
+Jessica Drew (Spider-Woman),SHIELD,0,10,30,0,0,10,30,10,15,5,15
+T'Challa (Black Panther),Avengers,20,0,30,20,5,20,10,10,5,5,0
+Piotr Rasputin (Collosus),X-Men,35,0,20,0,0,35,35,0,0,0,0
+Scott Summers (Cyclops),X-Men,0,35,30,20,0,0,20,20,0,0,0
