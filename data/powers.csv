@@ -1,5 +1,5 @@
 patreon,power,effect,description
-Tony Stark (Iron Man),repulsor engine,flight,repulsor allows you to fly jump high and gives bonus on underwater action 
+Tony Stark (Iron Man),repulsor engine,flight,repulsor allows you to fly and jump high and gives bonus on underwater action 
 Tony Stark (Iron Man),repulsor beam,damage bonus based on energy,concentrated energy beam through repulsor system
 Tony Stark (Iron Man),ai assistent,bonus on all knowledge checks,ask your personal ai assistent for help
 Tony Stark (Iron Man),sensor pack,bonus on all scan checks,allows to scan the terrain for specifics
@@ -7,7 +7,7 @@ Tony Stark (Iron Man),filtersystem,Immune to poisening,filters the air around yo
 Tony Stark (Iron Man),toolbench,Bonus on electrical and mechanical checks,advances toolset for creating stuff
 Tony Stark (Iron Man),hacking,Bonus on checks for hacking or overtaking systems,hacking toolset for cracking systems
 Tony Stark (Iron Man),armor sceleton,Bonus on strength and durability checks based on energy,this is your armor
-Ben Grimm (Thing),superhuman strength,bonus on all strength checks,due to changed physical appreance you are now stronger
+Ben Grimm (Thing),superhuman strength (100+ tons),bonus on all strength checks,due to changed physical appreance you are now stronger
 Ben Grimm (Thing),superhuman durability,bonus on all durability checks,due to changed physical appreance you have a greater stamina
 Ben Grimm (Thing),immune to poisening,immune to any poisenings,cause you don't have the same skin or inner system you get immune to poisening
 Ben Grimm (Thing),immune to radiation,immune to any radiation,cause your powers come to cosmic radiation you get immune to common radiation
@@ -15,43 +15,51 @@ Ben Grimm (Thing),expierenced pilot,bonus on all checks for flying vehicles,you 
 Ben Grimm (Thing),expierenced security,bonus on knowledge checks about security settings and systems,you are expierenced working out security plans and systems
 Ben Grimm (Thing),advanced willpower,bonus on all checks to loss of control or mental damage,you have a very strong mind and willpower to stand against tricksters and stress
 Ben Grimm (Thing),master combatant,bonus on all hand to hand combat checks by strength or durability,you got full training in hand to hand combat and are able to stand in any form of this combat type
-Jean Grey (Marvel Girl)
-Jean Grey (Marvel Girl)
-Jean Grey (Marvel Girl)
-Jean Grey (Marvel Girl)
-Jean Grey (Marvel Girl)
-Jean Grey (Marvel Girl)
-Jean Grey (Marvel Girl)
-Jean Grey (Marvel Girl)
-Scott Lang (Ant Man)
-Scott Lang (Ant Man)
-Scott Lang (Ant Man)
-Scott Lang (Ant Man)
-Scott Lang (Ant Man)
-Scott Lang (Ant Man)
-Scott Lang (Ant Man)
-Scott Lang (Ant Man)
-Prof. Charles Xavier (Prof. X)
-Prof. Charles Xavier (Prof. X)
-Prof. Charles Xavier (Prof. X)
-Prof. Charles Xavier (Prof. X)
-Prof. Charles Xavier (Prof. X)
-Prof. Charles Xavier (Prof. X)
-Prof. Charles Xavier (Prof. X)
-Prof. Charles Xavier (Prof. X)
-Thor Odinson (Thor)
-Thor Odinson (Thor)
-Thor Odinson (Thor)
-Thor Odinson (Thor)
-Thor Odinson (Thor)
-Thor Odinson (Thor)
-Thor Odinson (Thor)
-Thor Odinson (Thor)
-Jessica Drew (Spider-Woman)
-Jessica Drew (Spider-Woman)
-Jessica Drew (Spider-Woman)
-Jessica Drew (Spider-Woman)
-Jessica Drew (Spider-Woman)
-Jessica Drew (Spider-Woman)
-Jessica Drew (Spider-Woman)
-Jessica Drew (Spider-Woman)
+Jean Grey (Marvel Girl),empathy,bonus on social and psyche checks,due to telepathic talent you can interact the right way with other beeings
+Jean Grey (Marvel Girl),telepathic defense,bonus on defense based on psyche,generates a mental shield to defend against telepathic attacks
+Jean Grey (Marvel Girl),telepathic manipulation,bonus on manipulation based on psyche,manipulate the mind and behaviour of beeings
+Jean Grey (Marvel Girl),psychic blast,bonus on attack based on psyche,create an energy blast based on psionic energy
+Jean Grey (Marvel Girl),astral projection,check out astral realm,interact within the astral world and create a projection to allow your present somewhere else
+Jean Grey (Marvel Girl),mental detection,bonus on checks for living beeings and superbeeings based on psyche,sense other thinking and feeling beeings and it's psychic and physical capabilities
+Jean Grey (Marvel Girl),telekinesis,move items and people including yourself,allows you to move items and give them a lift. 
+Jean Grey (Marvel Girl),telekinetic field,force field to protect against attacks,create a force field to defend you and your allies
+Scott Lang (Ant Man),Pym Particles shrink,you can shrink down,changing size and shrink down to any particular size at cost of stamina is happing here
+Scott Lang (Ant Man),Pym Particles size,you can grow size up to non defined limits,changing sizes and get big at costs of your stamina is what's happening here
+Scott Lang (Ant Man),Pym Particles object size,size phsyical objects,with disks you can size objects
+Scott Lang (Ant Man),Pym Particles object shrink,shrink phsyical objects,with disks you can shrink objects
+Scott Lang (Ant Man),control ants,summon ants to help you,through biological manipualtion based in the ant helmet you can summon a colony of ants to help you
+Scott Lang (Ant Man),electrical engineer,bonus on knowledge checks for electrical systems,based on your expierence you are able to analyse and crack electrical systems
+Scott Lang (Ant Man),master thief,bonus on checks for dexterity and agility,breaking into building and lock picking is part of your business
+Scott Lang (Ant Man),master security,bonus on knowledge checks about security settings and systems,you are expierenced working out security plans and systems
+Prof. Charles Xavier (Prof. X),telepathic defense,bonus on defense based on psyche,generates a mental shield to defend against telepathic attacks
+Prof. Charles Xavier (Prof. X),telepathic manipulation,bonus on manipulation based on psyche,manipulate the mind and behaviour of beeings
+Prof. Charles Xavier (Prof. X),psychic blast,bonus on attack based on psyche,create an energy blast based on psionic energy
+Prof. Charles Xavier (Prof. X),astral projection,check out astral realm,interact within the astral world and create a projection to allow your present somewhere else
+Prof. Charles Xavier (Prof. X),mental detection,bonus on checks for living beeings and superbeeings based on psyche,sense other thinking and feeling beeings and it's psychic and physical capabilities
+Prof. Charles Xavier (Prof. X),telekinesis,move items and people including yourself,allows you to move items and give them a lift. 
+Prof. Charles Xavier (Prof. X),master tactics,bonus on checks about tactics and strategies,expierenced in tactical and stratigical approaches you can figure out a good game plan
+Prof. Charles Xavier (Prof. X),military training,bonus on combat and controling vehicles,serving the military helped employing your skills around military vehicles and diverse combat styles
+Thor Odinson (Thor),superhuman strength (100+ tons),bonus on all strength checks,due to your asgardian heritige you are stronger then the average human
+Thor Odinson (Thor),superhuman durability,bonus on all durability checks,due to your asgardian heritige you have a greater stamina
+Thor Odinson (Thor),allspeak,allows to understand every spoken language,you can communicate in all languages of the nine realms
+Thor Odinson (Thor),rapid healing,bonus on damage recovery,due to your asgardian heritige you heal faster from injuries
+Thor Odinson (Thor),elemental (choose one: storm;water;fire;earth),enables you to control that element,you can manipulate one specific element like storm;water;fire;earth and use it within your actions
+Thor Odinson (Thor),medical education,bonus on checks for healing others,due to your expierence at beeing a medical helper or smth similar you can help healing others
+Thor Odinson (Thor),superhuman resistence,immune to toxins or poisens,due to your asgardian heritage you are immune to poisens and toxins
+Thor Odinson (Thor),flight,ability to fly,allows you to fly and jump high
+Jessica Drew (Spider-Woman),superhuman strength (7 tons),bonus on all strength checks,propotional strength of a spider
+Jessica Drew (Spider-Woman),superhuman durability,bonus on all durability checks,you are more durable then the average person
+Jessica Drew (Spider-Woman),superhuman speed,bonus on all speed checks,you are faster then the average person
+Jessica Drew (Spider-Woman),superhuman agility,bonus on all agility checks,due to your spider abilities your are super agile
+Jessica Drew (Spider-Woman),wall crawling,stick to almost every surface,your spider powers enable you climbing on almost every surface
+Jessica Drew (Spider-Woman),skilled investigator,bonus on knowledge checks to investigate stuff,your background as an private detective helps covering up stuff
+Jessica Drew (Spider-Woman),master combatant,bonus on all hand to hand combat checks by agility or durability,
+Jessica Drew (Spider-Woman),pheromones,manipulate the behaviour of beeings through pheromones,
+Carol Danvers (Captain Marvel),superhuman strength (50+ tons),bonus on all strength checks,based on your dna manipulation you are super strong
+Carol Danvers (Captain Marvel),superhuman durability,bonus on all durability checks,based on your dna manipulation you are super durable
+Carol Danvers (Captain Marvel),flight,ability to fly,allows you to fly and jump high
+Carol Danvers (Captain Marvel),energy manipulation,bonus on energy checks,due to your dna manipulation you can change energy on its molecular level 
+Carol Danvers (Captain Marvel),photon blast,bonus on attacks based on energy,due to your dna manipulation you can fire a photon blast
+Carol Danvers (Captain Marvel),energy absorption,add bonus to your energy value,due to your dna manipulation you can absorb energy and use it. the more you absorb; the more energy you can use
+Carol Danvers (Captain Marvel),expierenced pilot,bonus on all checks for flying vehicles,you got training on all kind of flying vehicles
+Carol Danvers (Captain Marvel),master combatant,bonus on all hand to hand combat checks by energy or durability,you got full training in hand to hand combat and are able to stand in any form of this combat type
