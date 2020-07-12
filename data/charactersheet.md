@@ -31,7 +31,7 @@ ___
 
 
 ### GURPPE WIDERSTANDSFÄHIGKEIT, ENERGIE UND KAMPF
-|Widerstandsfähigkeit (<img width=20 />)|Energie (<img width=20 />) |Kampf (<img width=20 />) |
+|Widerstandsfähigkeit (______)|Energie (______) |Kampf (______) |
 |--|--|--|--|
 |<img width=250 />|<img width=250 />|<img width=250 />|
 |<img width=250 />|<img width=250 />|<img width=250 />|
@@ -56,7 +56,7 @@ ___
 
 
 ### GURPPE INTELLIGENZ, GESCHWINDIGKEIT UND STÄRKE
-|Intelligenz (<img width=20 />)|Geschwindigkeit (<img width=20 />) |Stärke (<img width=20 />) |
+|Intelligenz (______)|Geschwindigkeit (______) |Stärke (______) |
 |--|--|--|--|
 |<img width=250 />|<img width=250 />|<img width=250 />|
 |<img width=250 />|<img width=250 />|<img width=250 />|
@@ -81,7 +81,7 @@ ___
 
 
 ### GURPPE SOZIAL, WIRTSCHAFT UND BEWEGLICHKEIT
-|Sozial (<img width=20 />)|Wirtschaft (<img width=20 />) |Beweglichkeit (<img width=20 />) |
+|Sozial (______)|Wirtschaft (______) |Beweglichkeit (______) |
 |--|--|--|--|
 |<img width=250 />|<img width=250 />|<img width=250 />|
 |<img width=250 />|<img width=250 />|<img width=250 />|
@@ -105,7 +105,7 @@ ___
 |<img width=250 />|<img width=250 />|<img width=250 />|
 
 ### GURPPE FINGERFERTIGKEIT UND PSYCHE
-|Fingerfertigkeit (<img width=20 />)|Psyche (<img width=20 />) |
+|Fingerfertigkeit (______)|Psyche (______) |
 |--|--|
 |<img width=250 />|<img width=250 />|
 |<img width=250 />|<img width=250 />|
