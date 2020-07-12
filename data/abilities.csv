@@ -1,53 +1,8 @@
 category,name
-Sozial,Anthropologie
-Intelligenz,Archäologie
-Kampf,Artillie
-Wiederstandsfähigkeit,Athletik
-Wirtschaft,Buchführung
-Wirtschaft,Bürokratie
-Fingerfertikeit,Erste Hilfe
-Geschwindigkeit,Fahren
-Intelligenz,Forensik
-Intelligenz,Fremdsprachen
-Sozial,Geschichte
-Fingerfertikeit,Handwerk
 Beweglichkeit,Heimlichkeit
-Intelligenz,Informatik
-Intelligenz,Kriminologie
-Fingerfertikeit,Kunst
-Intelligenz,Mathematik
-Intelligenz,Medizin
-Kampf,Militärwissenschaften
-Kampf,Nahkampfwaffen
-Intelligenz,Naturwissenschaft
-Geschwindigkeit,Navigation
-Intelligenz,Okkultismus
-Intelligenz,Pharamzie
-Psyche,Psychologie
-Psyche,Psychotherapie
-Wirtschaft,Rechtswesen
-Geschwindigkeit,Reiten
-Sozial,Religion
-Kampf,Schusswaffen
-Kampf,Energiewaffen
-Geschwindigkeit,Schwimmen
-Fingerfertikeit,Sprengstoffe
-Wirtschaft,Steuern
-Wiederstandsfähigkeit,Suchen
-Psyche,Astralebene
-Psyche,Dimensionswissen
-Intelligenz,Kosmisches Wissen
-Wiederstandsfähigkeit,Überlebenskunst
 Beweglichkeit,Überwachen
-Sozial,Überzeugen
-Sozial,Lügen
-Kampf,Magische Waffen
-Sozial,Menschnekenntnis
 Beweglichkeit,Verkleiden
 Beweglichkeit,Wachsamkeit
-Kampf,Waffenloser Kampf
-Wiederstandsfähigkeit,erhöhte Ausdauer
-Wiederstandsfähigkeit,Schmerzresistent
 Energie,Elektrische System
 Energie,Energieflüsse (Technik)
 Energie,Energieflüsse (Astral)
@@ -55,7 +10,52 @@ Energie,Energieflüsse (Kosmisch)
 Energie,Energieversorgung
 Energie,Energieflüsse (Mental)
 Energie,Energieflüsse (Elektronik)
+Fingerfertikeit,Erste Hilfe
+Fingerfertikeit,Handwerk
+Fingerfertikeit,Kunst
+Fingerfertikeit,Sprengstoffe
+Geschwindigkeit,Fahren
+Geschwindigkeit,Navigation
+Geschwindigkeit,Reiten
+Geschwindigkeit,Schwimmen
+Intelligenz,Archäologie
+Intelligenz,Forensik
+Intelligenz,Fremdsprachen
+Intelligenz,Informatik
+Intelligenz,Kriminologie
+Intelligenz,Mathematik
+Intelligenz,Medizin
+Intelligenz,Naturwissenschaft
+Intelligenz,Okkultismus
+Intelligenz,Pharamzie
+Intelligenz,Kosmisches Wissen
+Kampf,Artillie
+Kampf,Militärwissenschaften
+Kampf,Nahkampfwaffen
+Kampf,Schusswaffen
+Kampf,Energiewaffen
+Kampf,Magische Waffen
+Kampf,Waffenloser Kampf
+Psyche,Psychologie
+Psyche,Psychotherapie
+Psyche,Astralebene
+Psyche,Dimensionswissen
+Sozial,Anthropologie
+Sozial,Geschichte
+Sozial,Religion
+Sozial,Überzeugen
+Sozial,Lügen
+Sozial,Menschnekenntnis
 Stärke,Klettern
 Sträke,Springen
 Stärke,Zugkraft
 Stärke,erhöhte Kraft
+Wiederstandsfähigkeit,Athletik
+Wiederstandsfähigkeit,Suchen
+Wiederstandsfähigkeit,Überlebenskunst
+Wiederstandsfähigkeit,erhöhte Ausdauer
+Wiederstandsfähigkeit,Schmerzresistent
+Wirtschaft,Buchführung
+Wirtschaft,Bürokratie
+Wirtschaft,Rechtswesen
+Wirtschaft,Steuern
