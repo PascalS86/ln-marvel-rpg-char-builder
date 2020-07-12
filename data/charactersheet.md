@@ -32,7 +32,7 @@ ___
 
 ### GURPPE WIDERSTANDSFÄHIGKEIT, ENERGIE UND KAMPF
 |Widerstandsfähigkeit ( _ _ _ ) |Energie ( _ _ _ ) |Kampf ( _ _ _ ) |
-|--|--|--|--|
+|--|--|--|
 |<img width=250 />|<img width=250 />|<img width=250 />|
 |<img width=250 />|<img width=250 />|<img width=250 />|
 |<img width=250 />|<img width=250 />|<img width=250 />|
@@ -57,7 +57,7 @@ ___
 
 ### GURPPE INTELLIGENZ, GESCHWINDIGKEIT UND STÄRKE
 |Intelligenz ( _ _ _ ) |Geschwindigkeit ( _ _ _ ) |Stärke ( _ _ _ ) |
-|--|--|--|--|
+|--|--|--|
 |<img width=250 />|<img width=250 />|<img width=250 />|
 |<img width=250 />|<img width=250 />|<img width=250 />|
 |<img width=250 />|<img width=250 />|<img width=250 />|
@@ -82,7 +82,7 @@ ___
 
 ### GURPPE SOZIAL, WIRTSCHAFT UND BEWEGLICHKEIT
 |Sozial ( _ _ _ ) |Wirtschaft ( _ _ _ ) |Beweglichkeit ( _ _ _ ) |
-|--|--|--|--|
+|--|--|--|
 |<img width=250 />|<img width=250 />|<img width=250 />|
 |<img width=250 />|<img width=250 />|<img width=250 />|
 |<img width=250 />|<img width=250 />|<img width=250 />|
