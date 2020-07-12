@@ -12,7 +12,7 @@
 ## CHARAKTERBESCHREIBUNG
 Hier könnt Ihr eine Beschreibung eures Charakters machen. Wie sieht sie/er aus? Wie wirkt sie/er? Was sind die besonderen merkmale?
 ___
-<img height=400 />
+<img width=2048 height=400 />
 
 ___
 
@@ -131,7 +131,7 @@ ___
 ## CHARAKTERBIOGRAPHIE
 Hier könnt ihr die Geschichte eures Charakters aufschreiben.
 ___
-<img height=2048 />
+<img  width=2048  height=2048 />
 
 ___
 
