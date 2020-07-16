@@ -29,7 +29,7 @@ Scott Lang (Ant Man),Pym Partikle objekte wachsen,lass physische objekte wachsen
 Scott Lang (Ant Man),Pym Partikle objekte schrumpfen,lass physische objekte schrumpfen,mit disks bewaffnet kannst du objekte verkleinern
 Scott Lang (Ant Man),ameisen kontrollieren,beschwöre einen ameisenschwarm um dir zu helfen,durch biologische manipulation mit hilfe des ameisenhelms können Sie eine ameisenkolonie zu hilfe rufen
 Scott Lang (Ant Man),elektro-ingenieur,bonus auf wissenschecks auf elektrische systeme,aufgrund deiner erfahrung bist du in der lage elektrische systeme zu analysieren und zu knacken
-Scott Lang (Ant Man),meisterdieb,bonus auf proben auf agilität und fingerfertigkeit,einbruch in gebäude und schlößerknacken ist teil deines geschäfts
+Scott Lang (Ant Man),meisterdieb,bonus auf proben auf beweglichkeit und fingerfertigkeit,einbruch in gebäude und schlößerknacken ist teil deines geschäfts
 Scott Lang (Ant Man),sicherheitsexperte,bonus auf wissenschecks für sicherheit und sicherheitssysteme,du bist erfahren im aufbau und planen von sicherheitsplänen und -systemen
 Prof. Charles Xavier (Prof. X),telepatische verteidung,bonus auf deine verteidigung basierend auf deiner psyche,du erzeugt ein mentales schutzschild
 Prof. Charles Xavier (Prof. X),telepatische manipulation,bonus auf manipulationsversuche basierend auf deinem psyche wert,manipuliere die gedanken und das verhalten von lebewesen
@@ -53,13 +53,13 @@ Jessica Drew (Spider-Woman),übermenschliche geschwindigkeit,bonus auf alle gesc
 Jessica Drew (Spider-Woman),übermenschlich beweglichkeit,bonus auf alle beweglichkeitsproben,due to your spider abilities your are super agile
 Jessica Drew (Spider-Woman),fasadenkletterer,stick to almost every surface,your spider powers enable you climbing on almost every surface
 Jessica Drew (Spider-Woman),erfahrener ermittler,bonus on knowledge checks to investigate stuff,your background as an private detective helps covering up stuff
-Jessica Drew (Spider-Woman),meisterhafter kämpfer,bonus auf alle nahkampf proben mit agility or durability,
+Jessica Drew (Spider-Woman),meisterhafter kämpfer,bonus auf alle nahkampf proben mit beweglichkeit or widerstandsfähigkeit,
 Jessica Drew (Spider-Woman),phäromone,manipulate the behaviour of beeings through pheromones,
-Carol Danvers (Captain Marvel),übermenschliche stärke (50+ tonnen),bonus auf alle stärkeproben,based on your dna manipulation you are super strong
-Carol Danvers (Captain Marvel),übermenschliche widerstandsfähigkeit,bonus auf alle widerstandsfähigkeitsproben,based on your dna manipulation you are super durable
-Carol Danvers (Captain Marvel),fähigkeit zu fliegen,fliegen,allows you to fly and jump high
-Carol Danvers (Captain Marvel),energie manipulation,bonus on energy checks,due to your dna manipulation you can change energy on its molecular level 
-Carol Danvers (Captain Marvel),photon strahl,bonus on attacks based on energy,due to your dna manipulation you can fire a photon blast
-Carol Danvers (Captain Marvel),energie absorption,add bonus to your energy value,due to your dna manipulation you can absorb energy and use it. the more you absorb; the more energy you can use
+Carol Danvers (Captain Marvel),übermenschliche stärke (50+ tonnen),bonus auf alle stärkeproben,wegen deiner veränderten dna bist du stärker
+Carol Danvers (Captain Marvel),übermenschliche widerstandsfähigkeit,bonus auf alle widerstandsfähigkeitsproben,wegen deiner veränderten dna bist du ausdauernder
+Carol Danvers (Captain Marvel),fähigkeit zu fliegen,fliegen,erlaubt es dir zu fliegen und hoch zu springen
+Carol Danvers (Captain Marvel),energie manipulation,bonus auf energie proben,wegen deiner veränderten dna kannst du energie auf molekularer ebene verändern 
+Carol Danvers (Captain Marvel),photon strahl,bonus auf energiebasierten attacken,wegen deiner veränderten dna kannst du einen photon strahl abfeuern
+Carol Danvers (Captain Marvel),energie absorption,bonus auf alle proben für energie,wegen deiner veränderten dna kannst du energie absorbieren und verwenden. je mehr du absorbierst; je mehr kannst du verwenden
 Carol Danvers (Captain Marvel),erfahrener pilot,bonus auf alle proben für fluggeräte,du wurdest für allerlei fluggeräte ausgebildet
-Carol Danvers (Captain Marvel),meisterhafter kämpfer,bonus auf alle nahkampf proben mit energy or durability,du hast eine ausbildung in nahkampf erhalten und kannst gegen jede form bestehen
+Carol Danvers (Captain Marvel),meisterhafter kämpfer,bonus auf alle nahkampf proben mit energie or widerstandsfähigkeit,du hast eine ausbildung in nahkampf erhalten und kannst gegen jede form bestehen
