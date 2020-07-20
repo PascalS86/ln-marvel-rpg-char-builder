@@ -93,7 +93,7 @@ Charakter mit einem hohen Wert für die **Psyche** haben eine besondere Fähigke
 #### ATTRIBUTSWERT
 Alle Attributswerte sind Prozentwerte. Das heißt, eine Zahl zwischen 0 und 100. 
 
-0 bedeutet, dass die Fähigkeit gar nicht ausgeprägt ist. 100 dagegen, dass Ihr nach menschlichen Verständnis absolute Experten seid.
+0 bedeutet, dass die Eigenschaft/Fertigkeit gar nicht ausgeprägt ist. 100 dagegen, dass Ihr nach menschlichen Verständnis absolute Experten seid.
 
 Sobald Ihr mindestens einen Punkt auf einem Attributswert habt, schaltet Ihr auch eine Fertigkeitsgruppe frei. 
 
