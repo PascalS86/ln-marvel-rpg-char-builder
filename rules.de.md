@@ -56,8 +56,8 @@ Alle Attributswerte sind Prozentwerte. Das heißt, eine Zahl zwischen 0 und 100.
 Sobald Ihr mindestens einen Punkt auf einem Attributswert habt, schaltet Ihr auch eine Fertigkeitsgruppe frei. 
 
 ### FERTIGKEITEN
-### FÄHIGKEITEN
 ### PATREONS
+#### FÄHIGKEITEN
 ## CHARAKTER ERSTELLUNG
 ## PROBEN
 ### ATTRIBUTPROBEN
