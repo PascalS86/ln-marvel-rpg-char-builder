@@ -20,7 +20,7 @@ Wir alle gestalten dieses Universum mit unseren Geschichten und Charakteren, wel
 ## CHARAKTER
 Apropos Charaktere: Zu jedem RPG gehören Charaktere. Die Spieler sind diese Charaktere. Im gegensatz zu Marvel Heroic, könnt ihr in diesem RPG eure Charaktere selbst erstellen. Dazu später mehr.
 
-Charaketere haben Attribute und Fähigkeiten. Außerdem haben Sie eine Geschichte und eine körperliche Erscheinung.
+Charaketere haben Attribute, Fertigkeiten und Fähigkeiten. Außerdem haben Sie eine Geschichte und eine körperliche Erscheinung.
 
 Als Spieler solltet Ihr euch darüber Gedanken machen, wer euer Charaketer ist. Woher kommt er/sie/es und was treibt sie/ihn an? 
 
@@ -53,14 +53,15 @@ Alle Attributswerte sind Prozentwerte. Das heißt, eine Zahl zwischen 0 und 100.
 
 0 bedeutet, dass die Fähigkeit gar nicht ausgeprägt ist. 100 dagegen, dass Ihr nach menschlichen Verständnis absolute Experten seid.
 
-Sobald Ihr mindestens einen Punkt auf einem Attributswert habt, schaltet Ihr auch eine Fähigkeitsgruppe frei. 
+Sobald Ihr mindestens einen Punkt auf einem Attributswert habt, schaltet Ihr auch eine Fertigkeitsgruppe frei. 
 
+### FERTIGKEITEN
 ### FÄHIGKEITEN
 ### PATREONS
 ## CHARAKTER ERSTELLUNG
 ## PROBEN
 ### ATTRIBUTPROBEN
-### FÄHIGKEITSPROBEN
+### FERTIGKEITSPROBEN
 ### KAMPFPROBEN
 ## HINWEISE
 ## FINALE WORTE
