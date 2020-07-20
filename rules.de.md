@@ -82,7 +82,7 @@ Die Eigenschaft **WIRTSCHAFT** erlaubt es dem Charakter in monitären Dimensione
 Die **Beweglichkeit** zeigt an, wie beweglich und agil ein Charakter ist. Charaktere mit einer hohen Beweglichkeit sind vergleichbar mit Akkrobaten oder Turnern.
 #### FINGERFERTIGKEIT
 
-<img src="https://comicvine1.cbsistatic.com/uploads/scale_medium/14/149570/4153674-ant-man-1-cover-mark-brooks-7eb38.jpg" width="150"/>
+<img src="https://upload.wikimedia.org/wikipedia/en/3/38/Ant-Man_%28Scott_Lang%29.jpg" width="150"/>
 
 Die **Fingerfertigkeit** stellt das Geschick mit den Händen dar. Diebe, Mechaniker und Bastler, sowie Ärtze oder ähnliche andere Berufe haben hohe Werte in der Fingerfertigkeit.
 #### PSYCHE
