@@ -106,7 +106,7 @@ Ein Beispiel:
 Das Attribut **Beweglichkeit** zeigt an, wie beweglich und agil ein Charakter ist. 
 Die Fertigkeit **Heimlichkeit** gehört zum Attribut Beweglichkeit. Jemand, der Heimlichkeit hat, kann besonders gut schleichen oder sich verstecken. Dies ist eine spezielle Beweglichkeit. 
 
-Eine aktuelle Liste findet ihr hier: [Fertigkeitsliste](data\abilities.csv)
+Eine aktuelle Liste findet ihr hier: [Fertigkeitsliste](data/abilities.csv)
   
 ### PATREONS
 Ein Patron ist jemand, der euch unterstützt. Ihr könnt Ihn/Sie als eine art Mentor betrachten. 
@@ -115,12 +115,12 @@ Der Patron hat einfluss auf eure Charaktererstellung, da Ihr durch ihn Grundwert
 
 Außerdem bekommt Ihr eure Fähigkeiten durch euren Patron. 
 
-Eine aktuelle Liste findet ihr hier: [Patrons](data\patreons.de.csv)
+Eine aktuelle Liste findet ihr hier: [Patrons](data/patreons.de.csv)
 
 #### FÄHIGKEITEN
 Fähigkeiten könnt Ihr im Spiel verwenden und geleten für euren Charakter. Sie könne Einfluss auf alles mögliche haben. Beispielsweise könntet Ihr ein erfahrener Pilot sein. Hier bekommt Ihr einen Bonus auf alle Proben um Flugzeuge zu fliegen. Ihr könntet aber auch einfach immun gegen Gifte sein. In diesem Fall können euch Vergiftungen gar nichts oder viel weniger ausmachen. 
 
-Eine aktuelle Liste der Fähigkeiten, die Ihr durch euren Patron bekommen könnt, findet ihr hier: [Fähigkeiten](data\powers.de.csv)
+Eine aktuelle Liste der Fähigkeiten, die Ihr durch euren Patron bekommen könnt, findet ihr hier: [Fähigkeiten](data/powers.de.csv)
 
 ## CHARAKTER ERSTELLUNG
 ## PROBEN
