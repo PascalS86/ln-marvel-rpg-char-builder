@@ -128,6 +128,8 @@ Eine aktuelle Liste der Fähigkeiten, die Ihr durch euren Patron bekommen könnt
 ## CHARAKTER ERSTELLUNG
 Nachdem wir jetzt wissen, was eueren Charakter ausmachen kann und was es alles für Elemente für euren Charakter gibt, geht es jetzt ans eingemachte. Wir erstellen einen Charakter.
 
+Das Charakter Sheet findet Ihr hier: [Charakter Sheet](data/charactersheet.md)
+
 ### ATTRIBUTE AUSWÄHLEN
 Ihr habt insgesamt **375** Punkte. Diese 375 Punkte könnt Ihr nach belieben auf eure Attribute verteilen bis zu einem Maximum von **100**. Macht euch darüber gedanken, was euren Charakter ausmacht. Ihr müsste alle 375 Punkte ausgeben.
 
