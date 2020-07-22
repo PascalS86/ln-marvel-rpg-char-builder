@@ -98,8 +98,30 @@ Alle Attributswerte sind Prozentwerte. Das heißt, eine Zahl zwischen **0** und 
 Sobald Ihr mindestens einen Punkt auf einem Attributswert habt, schaltet Ihr auch eine Fertigkeitsgruppe frei. 
 
 ### FERTIGKEITEN
+Fertigkeiten kann man als eine Spezialisierung von Attributen sehen. Jede Fertigkeit basiert gehört zu einer Attributgruppe. Sie machen euren Charakter in Bereichen besser. 
+
+Im Spiel können Fertigkeiten für Proben herangezogen werden und können bei generellen Proben eine Erleichterung bringen.
+
+Ein Beispiel:
+Das Attribut **Beweglichkeit** zeigt an, wie beweglich und agil ein Charakter ist. 
+Die Fertigkeit **Heimlichkeit** gehört zum Attribut Beweglichkeit. Jemand, der Heimlichkeit hat, kann besonders gut schleichen oder sich verstecken. Dies ist eine spezielle Beweglichkeit. 
+
+Eine aktuelle Liste findet ihr hier: [Fertigkeitsliste](data\abilities.csv)
+  
 ### PATREONS
+Ein Patron ist jemand, der euch unterstützt. Ihr könnt Ihn/Sie als eine art Mentor betrachten. 
+
+Der Patron hat einfluss auf eure Charaktererstellung, da Ihr durch ihn Grundwerte für Eure Attribute bekommt, die Ihr mindestens habt.
+
+Außerdem bekommt Ihr eure Fähigkeiten durch euren Patron. 
+
+Eine aktuelle Liste findet ihr hier: [Patrons](data\patreons.de.csv)
+
 #### FÄHIGKEITEN
+Fähigkeiten könnt Ihr im Spiel verwenden und geleten für euren Charakter. Sie könne Einfluss auf alles mögliche haben. Beispielsweise könntet Ihr ein erfahrener Pilot sein. Hier bekommt Ihr einen Bonus auf alle Proben um Flugzeuge zu fliegen. Ihr könntet aber auch einfach immun gegen Gifte sein. In diesem Fall können euch Vergiftungen gar nichts oder viel weniger ausmachen. 
+
+Eine aktuelle Liste der Fähigkeiten, die Ihr durch euren Patron bekommen könnt, findet ihr hier: [Fähigkeiten](data\powers.de.csv)
+
 ## CHARAKTER ERSTELLUNG
 ## PROBEN
 ### ATTRIBUTPROBEN
