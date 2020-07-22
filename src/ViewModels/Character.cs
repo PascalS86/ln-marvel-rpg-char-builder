@@ -16,7 +16,7 @@ namespace csandra.ln.marvel.rpg{
 
     /// <summary>
     /// This class contains the info relevant to the rpg character
-    /// characters spend 400 points on attributes
+    /// characters spend 375 points on attributes
     /// </summary>
     public class Character{
         /// <summary>

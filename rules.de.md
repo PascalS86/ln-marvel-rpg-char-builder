@@ -30,6 +30,9 @@ In diesem Spiel speziell ist, dass ihr einen Patron habt. Macht euch auch darüb
 
 Macht euch aber nicht verrückt. Immerhin seid Ihr der Charakter im Spiel. Geht mit dem Fluss und keine Angst etwas Falsch zu machen. Es gibt im RPG kein richtig und kein falsch.
 
+### LEBENSPUNKTE UND MENTALE PUNKTE
+Jeder Charakter startet mit *100* Lebenspunkten und *100* Mentalen Punkten. Diese können im Laufe eines Abenteuers weniger werden. Wenn Ihr euch anschließend nicht darum kümmert, werden eure Werte geringer. Wenn Ihr im laufe eines Abenteuers unter den Wert *50* kommt, kann das bleibende Effekte nach sich ziehen.
+
 ### ATTRIBUTE
 In diesem Spiel sind Attribute mit das wichtigste. Es sind die übergeordneten Eigenschaften eures Charakters und dienen als Indikator, was euer Charakter kann oder eben auch nicht.
 
@@ -123,6 +126,40 @@ Fähigkeiten könnt Ihr im Spiel verwenden und geleten für euren Charakter. Sie
 Eine aktuelle Liste der Fähigkeiten, die Ihr durch euren Patron bekommen könnt, findet ihr hier: [Fähigkeiten](data/powers.de.csv)
 
 ## CHARAKTER ERSTELLUNG
+Nachdem wir jetzt wissen, was eueren Charakter ausmachen kann und was es alles für Elemente für euren Charakter gibt, geht es jetzt ans eingemachte. Wir erstellen einen Charakter.
+
+### ATTRIBUTE AUSWÄHLEN
+Ihr habt insgesamt **375** Punkte. Diese 375 Punkte könnt Ihr nach belieben auf eure Attribute verteilen bis zu einem Maximum von **100**. Macht euch darüber gedanken, was euren Charakter ausmacht. Ihr müsste alle 375 Punkte ausgeben.
+
+### PATRON AUSWÄHLEN
+Als nächstes solltet Ihr euren Patron auswählen. Durch Ihn/Sie bekommt Ihr nochmal zusätzliche Werte auf eure Attribute. Falls Ihr dadurch über 100 in einem Attribut kommt, könnt Ihr den Rest auf andere Attribute verteilen.
+
+### FÄHIGKEITEN AUSWÄHLEN
+Ihr könnt im nächsten Schritt 4 Fähigkeiten von eurem Patron auswählen und in Tier 1 eintragen. 
+
+### FERTIGKEITEN AKTIVIEREN
+Geht jetzt in durch eure Attributsgruppen und guckt euch an, welche Werte Ihr habt. In jeder Attributsgruppe könnt Ihr dese Anzahl an Werten auf die dazugehörigen Fertigkeiten verteilen.
+
+**ACHTUNG**
+Wenn euch eine Fertigkeit fehlt, sprecht den/die Spielleiter/in an und klärt, ob diese Fertigkeit aufgenommen werden kann.  
+
+**Beispiel**
+Ihr habt für das Attribut **Beweglichkeit** 40 Punkte ausgegeben. 
+Damit habt Ihr die Fertigkeiten 
+* Heimlichkeit
+* Überwachen
+* Verkleiden
+* Wachsamkeit
+freigeschaltet. Diese 40 Punkte könnt ihr jetzt auf die Fertigkeiten verteilen.
+Z.b:
+* Heimlichkeit 20
+* Überwachen 5
+* Verkleiden 5
+* Wachsamkeit 10
+
+### DETAILS
+Macht euch auch ein paar Gedanken, wer euer Charakter ist. Ihr könnt eure Gedanken aufschreiben, müsst es aber nicht. In der Regel stellen wir aber vor eine, Abenteuer unsere Charaktere nochmal vor. Deshalb macht euch Gedanken, was Ihr erzählen wollt.
+
 ## PROBEN
 ### ATTRIBUTPROBEN
 ### FERTIGKEITSPROBEN
