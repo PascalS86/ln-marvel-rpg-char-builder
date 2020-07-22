@@ -164,8 +164,76 @@ Z.b:
 Macht euch auch ein paar Gedanken, wer euer Charakter ist. Ihr könnt eure Gedanken aufschreiben, müsst es aber nicht. In der Regel stellen wir aber vor eine, Abenteuer unsere Charaktere nochmal vor. Deshalb macht euch Gedanken, was Ihr erzählen wollt.
 
 ## PROBEN
+Proben sind Aktionen die der/die Spielleiter/in durch die Spieler bestätigt haben will. Immer dann, wenn die Spieler etwas suchen, oder bestimmte Aktionen wie bspw. einen Charkter zu überzeugen, können Proben anfallen.
+
+In diesem Spielsystem werden die Proben mit einem Würfel mit 100 Augen (einem W100) ausgeführt. 
+
+Euer Ziel ist mit eurem Würfel wurf + euer Attribut + die Fertigkeit ± der Schwierigkeitsmodifkators auf 100 zu kommen.
+Dies gilt nicht für den Kampf. 
+Eine 1-5 beim Würfel Ergebnis sind kritische Misserfolge.
+Eine 95-100 beim Würfel Ergebnis sind kritische Erfolge.
+
+In beiden Fällen passiert euch ein extremes Ergebnis.
+
+Es gibt drei Arten von Proben in deisem Spiel:
+* Attributproben
+* Fertigkeitsproben
+* Kampfproben
 ### ATTRIBUTPROBEN
+Viele Proben fallen auf Attributsproben zurück. Eine Probe läuft dabei wie folgt ab.
+
+Euer Attributwert + W100 ± der Schwierigkeitsmodifkators ≥ 100
+
+**Ein Beispiel**:
+Ihr steht vor einer Tür, die Verschlossen ist. Ihr bemerkt, sie ist aus Holz. Ihr habt einen Stärkewert von 40. Ihr wollt die Tür eintreten. Der/Die Spielleiter/in will eine Probe, erschwert um 10.
+
+Ihr würfelt eine 60.
+60 + 40 - 10 = 90. Ihr habt die Probe nicht bestanden. 
+
 ### FERTIGKEITSPROBEN
+Fertigkeitsproben können anfallen, wenn eine spezielle Situation oder Aktion passiert oder notwendig ist. Eine Probe läuft dabei wie folgt ab.
+
+Euer Attributwert + Euer Fertigkeitswert + W100 ± der Schwierigkeitsmodifkators ≥ 100
+
+**Ein Beispiel**:
+Ihr steht vor einer Tür, die Verschlossen ist. Ihr bemerkt, sie ist aus Holz. Ihr habt einen Kampfwert von 30. Ihr wollt die Tür eintreten. Der/Die Spielleiter/in will eine Probe, erschwert um 10. Ihr habt die Fertigkeit Martial Arts mit 20
+
+Ihr würfelt eine 60.
+60 + 30 + 20 - 10 = 100. Ihr habt die Probe bestanden und könnt die Tür eintreten.
+
 ### KAMPFPROBEN
+Ein Kampf besteht aus folgenden Schritten:
+* Ermittle Initiative
+* Führe 2 Aktionen aus
+
+Sobald es zum Kampf kommt, wird eine Initiative ermittelt.
+Diese bestimmt die Reihenfolge im Kampf. Eine Runde dauert etwa 5 Sekunden. In dieser könnt Ihr 2 Aktionen machen.
+
+Die Initiative ist W100 + Geschwindigkeit.
+
+Die höchste Initiative beginnt.
+Ihr könnt folgende Aktionen einmal ausführen:
+* Angriff (1 Aktion)
+* Bewegen (1 Aktion)
+* Rennen (2 Aktion)
+* Freie Aktion (1 Aktion)
+
+**Angriff**
+Wenn ihr euch enschließt anzugreifen, prüft ihr, ob ihr im Nahkampf oder im Fernkampf seit. Im Nahkampf, seid ihr gebunden und müsst eine Probe machen um euch zu bewegen.
+
+Im Nahkampf würfelt ihr direkt 1 W100 + Kampf + Fertigkeit gegen den Gegner. Ist das Ergebnis des Angreifers höher als das des Verteidigers, trifft der Angreifer und macht Schaden. 
+
+Fernkampf würfelt ihr direkt mit dem passenden Attribut + Fertigkeit + 1 W100 gegen das passende Attribut + Fertigkeit + 1W100 des gegeners. Ist das Ergebnis des Angreifers höher als das des Verteidigers, trifft der Angreifer und macht Schaden.
+
+Dem Spielleiter ist überlassen, welcher Würfel für den Schaden verwendet wird, in Abhängigkeit der Waffen
+
+**Bewegen**
+Ihr könnt euch normal bewegen. Dies ist eure Geschwindigkeit durch 4 in Metern. 
+Wenn Ihr im Nahkampf seid, seid ihr gebunden und müsst eine Probe machen um euch zu bewegen. 
+**Rennen**
+Ihr verbraucht 2 Aktionen um die doppelte Distanz zu überbrücken.
+**Freie Aktion**
+Hier ist wirklich jede Aktion möglich, die innerhalb von 5 Sekunden stattfinden kann. Was immer ihr machen wollt, sagt es an und der/die Spielleiter/in sagt ob es möglich ist und ob Ihr eine Probe ablegen müsst.
+
 ## HINWEISE
 ## FINALE WORTE
