@@ -236,4 +236,21 @@ Ihr verbraucht 2 Aktionen um die doppelte Distanz zu überbrücken.
 Hier ist wirklich jede Aktion möglich, die innerhalb von 5 Sekunden stattfinden kann. Was immer ihr machen wollt, sagt es an und der/die Spielleiter/in sagt ob es möglich ist und ob Ihr eine Probe ablegen müsst.
 
 ## HINWEISE
+Dieses Regelwerk ist eher eine Empfehlung, als ein striktes Regelwerk. Es ist im entstehen und lebt auch durch die Spieler/innen die dieses Spiel spielen.
+
+So wird es Erfahrungspunkte geben und ein Levelsystem, welches allerdings noch in der Entwicklung ist. 
+
+Generell ist mir wichtig, dass im RPG der Spielfluss nicht verloren geht. Wenn ein Spieler/In etwas cooles machen will, oder etwas probieren will, sollte es möglich sein.
+
+Ideen sind gerne willkommen und adaptionen erwünscht.
 ## FINALE WORTE
+Das ist es also, das kleine kompakte Regelwerk zum RPG.
+
+Mein Fokus war, das spiel so leicht und transparent wie möglich zu machen, immer unter dem Fokus den Spielfluss nicht zu behindern.
+
+Ich hoffe, ihr habt spaß dabei, dieses Regelwerk auszuprobieren und auch gerne weiter zu entwicklen. 
+
+Ansonsten sage ich, viel spaß bei einer Runde Pen&Paper!
+
+
+<img src="https://i0.wp.com/gintonicforbreakfast.com/wp-content/uploads/2017/12/Stan_Lee_Excelsior.gif?fit=480%2C345" />
