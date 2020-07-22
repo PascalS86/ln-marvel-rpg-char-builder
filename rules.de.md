@@ -152,6 +152,7 @@ Damit habt Ihr die Fertigkeiten
 * Überwachen
 * Verkleiden
 * Wachsamkeit
+
 freigeschaltet. Diese 40 Punkte könnt ihr jetzt auf die Fertigkeiten verteilen.
 Z.b:
 * Heimlichkeit 20
