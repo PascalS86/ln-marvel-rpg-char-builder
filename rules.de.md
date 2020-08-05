@@ -1,4 +1,4 @@
-# REGELEWERK
+# REGELWERK
 Hallo Freunde des nichtlinearen Spiels. 
 Vor euch habt ihr das Regelwerk zum Pen und Paper Rollenspiel (RPG), welches ich bei den #LEGENDARYNERDS leite. 
 
