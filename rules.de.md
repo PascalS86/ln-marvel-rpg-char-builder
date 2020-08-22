@@ -207,7 +207,7 @@ Ein Kampf besteht aus folgenden Schritten:
 * Führe 2 Aktionen aus
 
 Sobald es zum Kampf kommt, wird eine Initiative ermittelt.
-Diese bestimmt die Reihenfolge im Kampf. Eine Runde dauert etwa 5 Sekunden. In dieser könnt Ihr 2 Aktionen machen.
+Diese bestimmt die Reihenfolge im Kampf. Eine Runde dauert etwa 5-10 Sekunden. In dieser könnt Ihr 2 Aktionen machen.
 
 Die Initiative ist W100 + Geschwindigkeit.
 
@@ -233,7 +233,7 @@ Wenn Ihr im Nahkampf seid, seid ihr gebunden und müsst eine Probe machen um euc
 **Rennen**
 Ihr verbraucht 2 Aktionen um die doppelte Distanz zu überbrücken.
 **Freie Aktion**
-Hier ist wirklich jede Aktion möglich, die innerhalb von 5 Sekunden stattfinden kann. Was immer ihr machen wollt, sagt es an und der/die Spielleiter/in sagt ob es möglich ist und ob Ihr eine Probe ablegen müsst.
+Hier ist wirklich jede Aktion möglich, die innerhalb von 5-10 Sekunden stattfinden kann. Was immer ihr machen wollt, sagt es an und der/die Spielleiter/in sagt ob es möglich ist und ob Ihr eine Probe ablegen müsst.
 
 ## HINWEISE
 Dieses Regelwerk ist eher eine Empfehlung, als ein striktes Regelwerk. Es ist im entstehen und lebt auch durch die Spieler/innen die dieses Spiel spielen.
